@@ -1,6 +1,2 @@
-#running
-npm install -g httpster
-httpster
-
-#acess token didapat dari API REFERENCE CISCO as bearer token
-
+# webex-team-single-party
+web app based on node.js as agent to make one -on -one calling
