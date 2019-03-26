@@ -1,0 +1,27 @@
+.footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #5DBCD2;
+    color: white;
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+  }
+
+  .header img {
+    float: left;
+    width: 50px;
+    height: 50px;
+  }
+  
+  .header h1 {
+    /*position: relative;
+    top: 18px;
+    left: 10px;*/
+    text-align: center;
+    color: #5DBCD2;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
